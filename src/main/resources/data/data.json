@@ -1,27 +1,18 @@
 {
-  "zones": [
-    { "name": "Zona Alfa", "population": 5000, "needed": 100 },
-    { "name": "Zona Beta", "population": 3000, "needed": 60 },
-    { "name": "Zona Gamma", "population": 1000, "needed": 20 },
-    { "name": "Zona Delta", "population": 7000, "needed": 150 },
-    { "name": "Zona Epsilon", "population": 2500, "needed": 45 },
-    { "name": "Zona Zeta", "population": 800, "needed": 15 },
-    { "name": "Zona Media", "population": 900, "needed": 30 }
-  ],
   "nodos": [
-    { "id": "A" },
-    { "id": "B" },
-    { "id": "C" },
-    { "id": "D" },
-    { "id": "E" }
+    { "id": "Zona Norte", "nombre": "Zona Norte" },
+    { "id": "Zona Centro", "nombre": "Zona Centro" },
+    { "id": "Zona Sur", "nombre": "Zona Sur" },
+    { "id": "Zona Este", "nombre": "Zona Este" },
+    { "id": "Refugio Central", "nombre": "Refugio Central" }
   ],
   "aristas": [
-    { "origenId": "A", "destinoId": "B", "peso": 4 },
-    { "origenId": "A", "destinoId": "C", "peso": 2 },
-    { "origenId": "B", "destinoId": "C", "peso": 1 },
-    { "origenId": "B", "destinoId": "D", "peso": 5 },
-    { "origenId": "C", "destinoId": "D", "peso": 8 },
-    { "origenId": "C", "destinoId": "E", "peso": 10 },
-    { "origenId": "D", "destinoId": "E", "peso": 2 }
+    { "origenId": "Zona Norte", "destinoId": "Refugio Central", "peso": 12.5 },
+    { "origenId": "Zona Centro", "destinoId": "Refugio Central", "peso": 8.2 },
+    { "origenId": "Zona Sur", "destinoId": "Refugio Central", "peso": 15.7 },
+    { "origenId": "Zona Este", "destinoId": "Refugio Central", "peso": 6.8 },
+    { "origenId": "Zona Norte", "destinoId": "Zona Centro", "peso": 10.0 },
+    { "origenId": "Zona Centro", "destinoId": "Zona Sur", "peso": 7.5 },
+    { "origenId": "Zona Sur", "destinoId": "Zona Este", "peso": 9.2 }
   ]
 }

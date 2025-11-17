@@ -1,0 +1,49 @@
+[ {
+  "id" : "782eeee1-a50c-4298-aed7-367e7e452f78",
+  "nombre" : "Observador",
+  "email" : "viewer@desarecu.com",
+  "password" : "view123",
+  "rol" : "VISUALIZADOR",
+  "activo" : true,
+  "administrador" : false
+}, {
+  "id" : "fa585ed4-bd89-4b23-a1b3-2739a522cbb0",
+  "nombre" : "Coordinador General",
+  "email" : "coord@desarecu.com",
+  "password" : "coord123",
+  "rol" : "COORDINADOR",
+  "activo" : true,
+  "administrador" : false
+}, {
+  "id" : "3f96355f-e60d-46b0-941f-bcab3233c2bd",
+  "nombre" : "valentina",
+  "email" : "valentina@desarecu.com",
+  "password" : "valentina",
+  "rol" : "ADMINISTRADOR",
+  "activo" : true,
+  "administrador" : true
+}, {
+  "id" : "a7ed12c2-29ba-4e59-8d7f-8e23ebf92453",
+  "nombre" : "sara",
+  "email" : "sara@desarecu.com",
+  "password" : "sara",
+  "rol" : "VISUALIZADOR",
+  "activo" : true,
+  "administrador" : false
+}, {
+  "id" : "8822b4e8-f54f-4289-bd21-76ff19e76820",
+  "nombre" : "Administrador",
+  "email" : "admin@desarecu.com",
+  "password" : "admin",
+  "rol" : "ADMINISTRADOR",
+  "activo" : true,
+  "administrador" : true
+}, {
+  "id" : "e18ed1b0-3724-46e8-82b1-dad9e0aee010",
+  "nombre" : "Operador de Campo",
+  "email" : "operador@desarecu.com",
+  "password" : "oper123",
+  "rol" : "OPERADOR",
+  "activo" : true,
+  "administrador" : false
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "id" : 1,
+  "origenZona" : "Zona Norte",
+  "destinoZona" : "Refugio Central",
+  "peso" : 12.5
+}, {
+  "id" : 2,
+  "origenZona" : "Zona Centro",
+  "destinoZona" : "Refugio Central",
+  "peso" : 8.2
+}, {
+  "id" : 3,
+  "origenZona" : "Zona Sur",
+  "destinoZona" : "Refugio Central",
+  "peso" : 15.7
+}, {
+  "id" : 4,
+  "origenZona" : "Zona Este",
+  "destinoZona" : "Refugio Central",
+  "peso" : 6.8
+}, {
+  "id" : 5,
+  "origenZona" : "Zona Norte",
+  "destinoZona" : "Zona Centro",
+  "peso" : 10.0
+}, {
+  "id" : 6,
+  "origenZona" : "Zona Centro",
+  "destinoZona" : "Zona Sur",
+  "peso" : 7.5
+}, {
+  "id" : 7,
+  "origenZona" : "Zona Sara",
+  "destinoZona" : "Zona Norte",
+  "peso" : 30.0
+} ]

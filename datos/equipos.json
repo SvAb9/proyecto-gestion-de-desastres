@@ -1,0 +1,26 @@
+[ {
+  "id" : 1,
+  "nombre" : "Equipo Médico Alpha",
+  "responsable" : "Dr. García",
+  "disponible" : true
+}, {
+  "id" : 2,
+  "nombre" : "Equipo Bomberos Beta",
+  "responsable" : "Cap. Rodríguez",
+  "disponible" : true
+}, {
+  "id" : 3,
+  "nombre" : "Equipo Cruz Roja Gamma",
+  "responsable" : "Enf. Martínez",
+  "disponible" : true
+}, {
+  "id" : 4,
+  "nombre" : "Equipo Defensa Civil Delta",
+  "responsable" : "Coord. López",
+  "disponible" : true
+}, {
+  "id" : 6,
+  "nombre" : "Equipo medicinal",
+  "responsable" : "Dr. Sara",
+  "disponible" : true
+} ]

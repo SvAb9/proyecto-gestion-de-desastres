@@ -1,0 +1,36 @@
+[ {
+  "id" : 1,
+  "nombre" : "Zona Norte",
+  "estado" : "afectada",
+  "prioridad" : 90,
+  "equiposAsignados" : [ ],
+  "nivelNecesidad" : 90
+}, {
+  "id" : 2,
+  "nombre" : "Zona Centro",
+  "estado" : "evacuando",
+  "prioridad" : 70,
+  "equiposAsignados" : [ ],
+  "nivelNecesidad" : 70
+}, {
+  "id" : 3,
+  "nombre" : "Zona Sur",
+  "estado" : "normal",
+  "prioridad" : 30,
+  "equiposAsignados" : [ ],
+  "nivelNecesidad" : 30
+}, {
+  "id" : 4,
+  "nombre" : "Zona Este",
+  "estado" : "afectada",
+  "prioridad" : 85,
+  "equiposAsignados" : [ ],
+  "nivelNecesidad" : 85
+}, {
+  "id" : 5,
+  "nombre" : "Zona Sara",
+  "estado" : "afectada",
+  "prioridad" : 50,
+  "equiposAsignados" : [ ],
+  "nivelNecesidad" : 50
+} ]

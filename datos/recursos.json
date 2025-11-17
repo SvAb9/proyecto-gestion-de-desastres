@@ -1,0 +1,49 @@
+[ {
+  "id" : 1,
+  "nombre" : "Agua Potable",
+  "cantidadDisponible" : 500,
+  "cantidadUsada" : 0,
+  "total" : 500,
+  "usado" : 0,
+  "disponible" : 500
+}, {
+  "id" : 2,
+  "nombre" : "Kits Médicos",
+  "cantidadDisponible" : 100,
+  "cantidadUsada" : 0,
+  "total" : 100,
+  "usado" : 0,
+  "disponible" : 100
+}, {
+  "id" : 3,
+  "nombre" : "Mantas Térmicas",
+  "cantidadDisponible" : 300,
+  "cantidadUsada" : 0,
+  "total" : 300,
+  "usado" : 0,
+  "disponible" : 300
+}, {
+  "id" : 4,
+  "nombre" : "Alimentos No Perecederos",
+  "cantidadDisponible" : 800,
+  "cantidadUsada" : 0,
+  "total" : 800,
+  "usado" : 0,
+  "disponible" : 800
+}, {
+  "id" : 5,
+  "nombre" : "Medicamentos Básicos",
+  "cantidadDisponible" : 150,
+  "cantidadUsada" : 0,
+  "total" : 150,
+  "usado" : 0,
+  "disponible" : 150
+}, {
+  "id" : 6,
+  "nombre" : "Tiendas de Campaña",
+  "cantidadDisponible" : 50,
+  "cantidadUsada" : 0,
+  "total" : 50,
+  "usado" : 0,
+  "disponible" : 50
+} ]
